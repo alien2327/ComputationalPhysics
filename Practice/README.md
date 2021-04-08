@@ -1,6 +1,6 @@
 # 교재 정보
 
-<img src="bookcover.jpg" height="50%">
+<img src="bookcover.jpg" height="30%" style="text-align: center">
 
 - 제목 : MACHINE LEARNING 기계학습 초판(홍보용)
 - 저자 : 오일석
